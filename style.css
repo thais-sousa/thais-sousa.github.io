@@ -273,7 +273,7 @@ h3{
 .contato a:active, 
 .contato a:hover {
     text-decoration: none;
-    text-shadow: 5px 5px 5px #76323f; /*Sombra*/
+    text-shadow: 5px 5px 5px #76323f; 
 }
 
 .contato .icons {
@@ -283,7 +283,7 @@ h3{
 
 
 @media (min-width: 1200px) {
-    .container { /*classe funcional que pode ser utilizada por todos os elementos*/
+    .container { 
         max-width: 1200px;
     }
 }
